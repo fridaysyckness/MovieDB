@@ -1,5 +1,7 @@
 
-Original project can be found here https://github.com/sourcestream/moviedb-android
+Original project can be found here 
+-----------
+> https://github.com/sourcestream/moviedb-android
 
 What is it?
 -----------
