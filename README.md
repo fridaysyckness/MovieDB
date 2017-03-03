@@ -17,7 +17,8 @@ Getting started
 1. First you need to have installed Android Studio on your computer. You can download it from [here](https://developer.android.com/sdk/index.html).
 
 2. Download the project
-> git clone https://github.com/sourcestream/moviedb-android.git
+> git clone (original project) https://github.com/sourcestream/moviedb-android.git
+> git clone https://github.com/fridaysyckness/MovieDB.git
 
 3. After you download the project open Android Studio. From there choose *Open an existing Android Studio project* or *File -> New -> Import Project..*
 4.  Open the Movie DB folder that was just cloned from git.
