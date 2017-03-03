@@ -69,11 +69,8 @@ Libraries
 
 Contact
 --------------
-
-<img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/sourcestream.png" width="300" height="227">
-
 </br>This project is developed by [sourcestream GmbH](http://sourcestream.de/).
-</br>If you have any questions please do not hesitate to contact us: <a href="mailto:info@sourcestream.de?subject=SweetWords">
+</br>If you have any questions please do not hesitate to contact: <a href="mailto:info@sourcestream.de?subject=SweetWords">
 info@sourcestream.de</a> 
 License
 --------------
