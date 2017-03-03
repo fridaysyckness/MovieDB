@@ -66,6 +66,8 @@ Libraries
  - **[Parallax Scrolls](https://github.com/nirhart/ParallaxScroll)** for making parallaxed views.
  - **[Robolectric](http://robolectric.org/)** for running Android tests directly from inside your IDE.
 
+Todo
+-----------
 
 Contact
 --------------
