@@ -1,3 +1,6 @@
+
+Original project can be found here https://github.com/sourcestream/moviedb-android
+
 What is it?
 -----------
 Movie DB is an Android app with open source code. Movie DB finds information about your favourite movies, TV shows and actors.</br>
@@ -8,9 +11,6 @@ We offer friendly and intuitive user interface. You can view information such as
 <img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/2.png" width="216" height="384">
 <img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/5.png" width="216" height="384">
 <br/>
-### Download from Google Play
-
-[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.sourcestream.movieDB&hl=bg)
 
 Getting started
 -------------
@@ -48,10 +48,10 @@ In order to use MovieDB you need to get your own key from TMDb. You can do that 
 Environment
 --------------
 [![Build Status](https://api.travis-ci.org/sourcestream/moviedb-android.svg?branch=master)](http://travis-ci.org/sourcestream/moviedb-android)
-</br>This project has been build with Android Studio 1.3.2
-</br>SDK Build Tools version 23.0.0
+</br>This project has been build with Android Studio 2.2.3
+</br>SDK Build Tools version 25.0.2
 </br>Minimum SDK version for the app is 	17 (Android 4.2, 4.2.2).
-</br>Target SDK version for the app is 23 (Android 6.0).
+</br>Target SDK version for the app is 25 (Android 7.0).
 </br>Movie DB is supported currently for phones only, but you can run it on tablet.
 </br>Supported devices: 4709. You can see the full list [here](https://github.com/sourcestream/moviedb-android/blob/master/documents/supported%20devices.pdf).
 
