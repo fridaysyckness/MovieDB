@@ -17,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    return void
 }
 
 dependencies {
@@ -38,3 +39,11 @@ dependencies {
         exclude group: 'org.apache.httpcomponents', module: 'httpclient'
     }
 }
+
+/**
+ * Removed this dependency from original code which causes some functions to not work
+ * >> Error: The number of method references in a .dex file exceed 64K
+ * >> compile 'com.google.android.gms:play-services:7.8.0'
+ *
+ * Specify only the gms:play-services you are using on the app
+ */
